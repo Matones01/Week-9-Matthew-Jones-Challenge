@@ -158,7 +158,7 @@ function Challenges(){
                             <p>
                                 The ninth challenge was to create this website to act as a portfolio.
                             </p>
-                            <a href="https://github.com/Matones01/Week-9-Challenge">Github Link</a>
+                            <a href="https://github.com/Matones01/Week-9-Matthew-Jones-Challenge">Github Link</a>
                         </div>
                     </div>
                 </li>
